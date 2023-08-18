@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Stan Marsh",
+        "species": "human",
+        "birthday": "10/19/2000",
+        "status": "alive",
+        "salary": 0
+    },
+    {
+        "name": "Kyle Broflovski",
+        "species": "human",
+        "birthday": "05/26/2000",
+        "status": "alive",
+        "salary": 0
+    },
+    {
+        "name": "Eric Cartman",
+        "species": "human",
+        "birthday": "07/01/2001",
+        "status": "alive",
+        "salary": 0
+    },
+    {
+        "name": "Kenny McCormick",
+        "species": "human",
+        "birthday": "03/22/2000",
+        "status": "deceased",
+        "salary": 0
+    },
+    {
+        "name": "Butters Stotch",
+        "species": "human",
+        "birthday": "09/11/2000",
+        "status": "alive",
+        "salary": 0
+    },
+    {
+        "name": "Randy Marsh",
+        "species": "human",
+        "birthday": "03/12/1983",
+        "status": "alive",
+        "salary": 10000000
+    },
+    {
+        "name": "Sharon Marsh",
+        "species": "human",
+        "birthday": "11/12/1983",
+        "status": "alive",
+        "salary": 250000
+    }
+]
